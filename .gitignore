@@ -1,0 +1,7 @@
+.R*
+*.csv
+
+repdata*
+Storm-Data-Export-Format.pdf
+case_study_cache/
+funs.R
